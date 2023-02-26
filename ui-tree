@@ -1,0 +1,30 @@
+I. Load
+    A. settings
+    B. customers
+    C. job types
+II. View
+    A. customers
+        1. jobs
+    B. job types
+    C. settings
+    D. billing
+III. Interact
+    A. customers
+        1. create
+        2. delete
+        3. update
+    B. job types
+        1. create
+        2. delete
+        3. update
+    C. settings
+        1. update
+    D. billing
+        1. create
+        2. delete
+        3. update
+IV. Save
+    A. customers
+    B. job types
+    C. settings
+    D. billing
